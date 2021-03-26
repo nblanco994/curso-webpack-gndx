@@ -11,15 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nblanco994/curso-webpack-gndx.git"
+    "url": "git+https://github.com/gndx/js-portfolio.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "Niyuby Blanco <nblanco.nb17@gmail.com>",
+  "author": "oscar barajas <oscar@gndx.dev>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/js-portfolio/issues"
+  },
+  "homepage": "https://github.com/gndx/js-portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.13.10",
     "@babel/plugin-transform-runtime": "^7.13.10",
