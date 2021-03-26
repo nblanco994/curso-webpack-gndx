@@ -5,7 +5,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
 const { utils } = require('stylus');
-const Dotenv = require('dotenv-webpack');
+const Dotenv = require('dotenv-webpack'); 
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
